@@ -65,7 +65,7 @@ Always learning. Always building. Always improving.
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65"/><br>Raspberry Pi</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65"/><br>Raspberry</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="65"/><br>Arduino</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL</td>
 </tr>
@@ -78,7 +78,7 @@ Always learning. Always building. Always improving.
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>VS Code</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="65"/><br>Photoshop</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ai" width="65"/><br>Illustrator</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xd" width="65"/><br>Adobe XD</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xd" width="65"/><br>XD</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=latex" width="65"/><br>LaTeX</td>
 </tr>
 </table>
