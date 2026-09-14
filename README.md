@@ -63,22 +63,22 @@ Always learning. Always building. Always improving.
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="65"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Raspberry</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65"/><br>Arduino</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="65"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="65"/><br>QT</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65"/><br>Raspberry</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="65"/><br>Arduino</td>
 </tr>
 
 <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="65"/><br>Ubuntu</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=debian" width="65"/><br>Windows</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="65"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>VS Code</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>Photoshop</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="65"/><br>Illustrator</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ai" width="65"/><br>XD</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xd" width="65"/><br>LaTeX</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="65"/><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=debian" width="65"/><br>Debian</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="65"/><br>Windows</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>VS Code</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="65"/><br>Photoshop</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ai" width="65"/><br>Illustrator</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xd" width="65"/><br>XD</td>
 </tr>
 </table>
