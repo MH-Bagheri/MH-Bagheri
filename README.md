@@ -145,31 +145,5 @@ public:
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🏆 GitHub Telemetry & Achievements
-
-<div align="center">
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mh-bagheri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub Trophies" />
-
-  <br/><br/>
-
-  <!-- GitHub Stats & Streak Cards -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mh-bagheri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=3B82F6" alt="Mohammad's GitHub Stats" />
-  <img height="175em" src="https://streak-stats.demolab.com?user=mh-bagheri&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=3B82F6&currStreakLabel=00F2FE" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Top Languages & Activity Graph -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-bagheri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mh-bagheri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FE&line=3B82F6&point=FFFFFF&area=true" width="98%" alt="Contribution Graph" />
-
-</div>
-
 <!-- Animated Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=110&section=footer&text=Always%20learning.%20Always%20building.%20Always%20improving.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" alt="Footer" />
