@@ -1,84 +1,175 @@
-<img src="banner.png" style="margin:0 auto 40px auto"/>
+<div align="center">
 
-# Hi, I'm Mohammad 👋  
-### **Computer Engineer | AI Researcher | Embedded Systems Specialist**
+  <!-- Custom Repository Banner -->
+  <img src="banner.png" alt="Mohammad Bagheri Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-I'm a Computer Engineer (M.Sc. candidate) passionate about designing **intelligent, reliable, and hardware-aware systems**.  
-My work sits at the intersection of **AI, embedded computing, and systems engineering**—turning complex concepts into real, high-performance solutions.
+  <!-- Dynamic Animated Title & Typing Header -->
+  <a href="https://github.com/mh-bagheri">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=850&height=45&lines=Hi%2C+I'm+Mohammad+(mh-bagheri)+%F0%9F%91%8B;Computer+Engineer+%7C+AI+Researcher;Embedded+%26+Hardware-Aware+Systems+Specialist" alt="Animated Header" />
+  </a>
 
-I love building things that work *efficiently, intelligently, and at scale*—whether it’s training deep-learning models, engineering robust backend architectures, or deploying algorithms on embedded hardware.
+  <p align="center">
+    <i>Architecting <b>intelligent</b>, <b>reliable</b>, and <b>hardware-aware systems</b> at the convergence of<br/><b>Deep Learning</b>, <b>Embedded Computing</b>, and <b>High-Performance Software Engineering</b>.</i>
+  </p>
 
+  <!-- Live GitHub Profile Telemetry Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mh-bagheri&label=Profile%20Views&color=00F2FE&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/mh-bagheri?tab=followers">
+      <img src="https://img.shields.io/github/followers/mh-bagheri?label=Followers&style=for-the-badge&color=3B82F6&logo=github" alt="Followers" />
+    </a>
+    <a href="https://github.com/mh-bagheri?tab=repositories">
+      <img src="https://img.shields.io/github/stars/mh-bagheri?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=F59E0B&logo=apachespark" alt="Stars" />
+    </a>
+  </p>
 
+</div>
 
-## 🚀 What I Do
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🧠 **Artificial Intelligence & Machine Learning**
-Design, train, and deploy intelligent models with an emphasis on **efficient algorithms**, **computer vision**, and practical AI applications.
+## 🖥️ System Specification // `mh-bagheri.cpp`
 
-### ⚙️ **Embedded & Hardware Systems**
-Building real-time, hardware-integrated systems using Raspberry Pi, Arduino, microcontrollers, and low-level programming.
+```cpp
+#include <ai/deep_learning.hpp>
+#include <embedded/hardware_core.hpp>
+#include <systems/scalable_backend.hpp>
 
-### 🛠️ **Robust Software Engineering**
-From Python backends to full-stack solutions, I focus on clean, scalable, and production-ready development.
+class Mohammad : public ComputerEngineer {
+public:
+    const std::string handle     = "mh-bagheri";
+    const std::string philosophy = "Always learning. Always building. Always improving.";
 
+    struct Education {
+        std::string msc = "M.Sc. in Computer Engineering (2024 – Present)";
+        std::string bsc = "B.Sc. in Computer Engineering (2020 – 2024)";
+    };
 
+    void execute_mission() override {
+        // Bridging theoretical algorithms with real-world, hardware-aware deployment
+        deploy_models({"Computer Vision", "Efficient Deep Learning", "Intelligent Algorithms"});
+        optimize_edge({"Raspberry Pi", "Arduino", "Microcontrollers", "Low-Level C/C++"});
+        scale_systems({"Python/Django Backends", "Full-Stack Web", "Cross-Platform Desktop"});
+    }
+};
+```
 
-## 🧩 Technical Expertise
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-|          Domain          |                                       Skills & Technologies                                       |
-|--------------------------|---------------------------------------------------------------------------------------------------|
-| **Programming**          | Python (Advanced), Django, C/C++, C#, JavaScript, HTML, CSS, SQL                                  |
-| **AI & Data**            | PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Classical/Intelligent Algorithm Design  |
-| **Embedded & Hardware**  | Raspberry Pi, Arduino, Microcontrollers, Low-Level Optimization                                   |
-| **Tools & Environments** | Git, Linux, Docker, LaTeX, Adobe Suite, Microsoft Office (Advanced)                               |
+## 🚀 Core Engineering Architecture
 
-
-
-## 🎓 Education
-
-- **M.Sc. in Computer Engineering** — 2024–Present  
-- **B.Sc. in Computer Engineering** — 2020–2024  
-
-Always learning. Always building. Always improving.
-
-
-
-## 💻 Favorite Tools
-
-<table align="center">
-<tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br>TensorFlow</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="65"/><br>OpenCV</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="65"/><br>Django</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="65"/><br>C</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="65"/><br>C#</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>C++</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="65"/><br>Docker</td>
-</tr>
-
-<tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="65"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="65"/><br>QT</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65"/><br>Raspberry</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="65"/><br>Arduino</td>
-</tr>
-
-<tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="65"/><br>Bash</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=debian" width="65"/><br>Debian</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="65"/><br>Windows</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>VS Code</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ps" width="65"/><br>Photoshop</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ai" width="65"/><br>Illustrator</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xd" width="65"/><br>XD</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 AI & Machine Learning</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Vision_%26_Efficiency-00F2FE?style=flat-square" />
+      </p>
+      <p>
+        Designing, training, and deploying deep learning models with a focus on <b>computer vision</b>, <b>classical & intelligent algorithm design</b>, and high-efficiency inference pipelines that scale from cloud GPUs down to edge devices.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚙️ Embedded & Edge Systems</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Real--Time_Hardware-3B82F6?style=flat-square" />
+      </p>
+      <p>
+        Building deterministic, hardware-integrated systems using <b>Raspberry Pi</b>, <b>Arduino</b>, and <b>microcontrollers</b>. Specializing in low-level <b>C/C++ optimization</b> and hardware-software co-design.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🛠️ Software Engineering</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-Production_Systems-8B5CF6?style=flat-square" />
+      </p>
+      <p>
+        Engineering clean, modular, and production-ready architectures—from robust <b>Python/Django</b> backends and SQL databases to cross-platform <b>Qt/C#</b> applications and responsive web frontends.
+      </p>
+    </td>
+  </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🧩 Technical Arsenal & Control Matrix
+
+<table align="center" width="100%">
+  <tr>
+    <td width="28%" align="center"><b>Domain</b></td>
+    <td width="72%" align="center"><b>Technologies, Frameworks & Environments</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🧠 AI, ML & Data Science</b><br/>
+      <sub>Deep Learning, Vision & Algorithms</sub>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI Stack" />
+      <br/><br/>
+    </td>
+  </tr>
+    </tr>
+  <tr>
+    <td align="center">
+      <b>🌐 Web & Backend</b><br/>
+      <sub>Full-Stack & Databases</sub>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=django,js,html,css,tailwind,bootstrap,mysql&theme=dark" alt="Web Stack" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⚙️ Embedded & Systems</b><br/>
+      <sub>Low-Level, Hardware & Native GUI</sub>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,cmake,qt,raspberrypi,arduino,linux,debian,bash&theme=dark" alt="Embedded Stack" />
+      <br/><br/>
+    </td>
+  <tr>
+    <td align="center">
+      <b>🛠️ DevOps, Academic & Design</b><br/>
+      <sub>Containers, Versioning & Creative</sub>
+    </td>
+    <td align="center">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,debian,windows,ps,ai,xd,latex&theme=dark" alt="Tools Stack" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏆 GitHub Telemetry & Achievements
+
+<div align="center">
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mh-bagheri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats & Streak Cards -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mh-bagheri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=3B82F6" alt="Mohammad's GitHub Stats" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=mh-bagheri&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=3B82F6&currStreakLabel=00F2FE" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Top Languages & Activity Graph -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-bagheri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mh-bagheri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FE&line=3B82F6&point=FFFFFF&area=true" width="98%" alt="Contribution Graph" />
+
+</div>
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=110&section=footer&text=Always%20learning.%20Always%20building.%20Always%20improving.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" alt="Footer" />
